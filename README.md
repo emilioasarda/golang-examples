@@ -19,17 +19,3 @@ We will explain all the features that go with it including the famous `goroutine
 
 **Lesson 4.** Modeling data: modeling our beers (structs, defined types, etc).
 
-
-## Environment setup
-
-See the environment setup instructions below.
-
-### Requirements
-
-To compile & run the source code of this project you just need to have [Go](https://golang.org/) properly installed.
-
-### Installation
-
-Binary distributions of Go are [available](https://golang.org/dl/) for Linux, macOS, Windows and more. 
-
-Otherwise you can [download](https://dl.google.com/go/go1.12.5.src.tar.gz) the source code and compile it for your platform.
